@@ -89,9 +89,6 @@ postFix[j] = '\0';
 return postFix;
 }
 
-
-
-
 int main () {
   char exp[MAX_SIZE];
   printf("Write expression: ");
